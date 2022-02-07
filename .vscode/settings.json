@@ -1,4 +1,5 @@
 {
+  "explorer.compactFolders": false,
   "workbench.tree.indent": 30,
   "editor.linkedEditing": true,
   "workbench.editor.wrapTabs": true,
